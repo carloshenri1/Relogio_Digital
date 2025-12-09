@@ -1,2 +1,2 @@
-# Relogio_Digital
-Desenvolvido em sala de aula
+# Projeto7---Relogio-Digital
+Projeto realizado utilizando as tecnologias HTML, CSS e Js Cript
